@@ -1,8 +1,11 @@
 class MyClass {
-  void add(int x, int y)  //adding two integers 
+  void add(int x, int y)  //adding two integers
  {
     //System.out.println("Sum of two numbers: " &x+y);
      System.out.println("I am Prasanth Updated ");
+  {
+    //System.out.println("Sum of two numbers: " &x+y);
+    System.out.println("SanjayKhanna Add method");
   }
   void subtract(int x,int y){
 	  System.out.println("subtract two numbers:"x-y);

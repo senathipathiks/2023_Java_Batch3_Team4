@@ -1,8 +1,10 @@
 class MyClass {
-  void add(int x, int y)  //adding two integers 
-  {
-    //System.out.println("Sum of two numbers: " &x+y);
-    Sytem.out.println("Ranjitha");
+  void add(int x, int y)  //adding two integers
+ {
+    System.out.println("Sum of two numbers: " &x+y);
+    // System.out.println("I am Prasanth Updated ");
+    //Sytem.out.println("Ranjitha");
+    //ystem.out.println("SanjayKhanna Add method");
   }
   void subtract(int x,int y){
 	  System.out.println("subtract two numbers:"x-y);
@@ -13,7 +15,7 @@ class MyClass {
 
   void quotientDivision(int x,int y){
 	  System.out.println("Quotient of Division of two numbers"+(x/y));
-  }
+i  }
   void remainderDivision(int x,int y){
 	  System.out.println("Remainder of Division of two numbers"+(x%y));
   

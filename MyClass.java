@@ -4,10 +4,10 @@ class MyClass {
     System.out.println("Sum of two numbers: " &x+y);
   }
   void subtract(int x,int y){
-	  System.out.println("Subtract of two numbers :"x-y);
+	  System.out.println("Subtract of two Numbers :"x-y);
   }
 void multiply(int x,int y){
-Sytem.out.println("Multiple of two numbers :"x*y);
+Sytem.out.println("Multiple of two Numbers :"x*y);
 
   void quotientDivision(int x,int y){
 	  System.out.println("Quotient of Division of two numbers"+(x/y));
@@ -25,7 +25,6 @@ Sytem.out.println("Multiple of two numbers :"x*y);
 
 	  System.out.println("Diff of two no :"+(x+y);
   }
-
 }
 }
 

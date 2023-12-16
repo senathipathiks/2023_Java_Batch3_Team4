@@ -20,4 +20,7 @@ class MyClass {
 
 	  System.out.println("Diff of two no :"+(x+y);
   }
-}
+  void diaplay();
+  {
+	  Sytem.out.printiln("This Method is add by Prem");
+  }
